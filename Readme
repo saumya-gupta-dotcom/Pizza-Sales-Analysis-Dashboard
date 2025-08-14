@@ -1,0 +1,19 @@
+# Pizza Sales Analysis Dashboard
+
+An interactive sales analysis dashboard built using **MySQL** for data storage and queries, and **Excel** for visualization.  
+It highlights key performance metrics such as:
+
+- **Total Revenue**  
+- **Average Order Value**  
+- **Total Pizzas Sold**  
+- **Order Trends by Day & Hour**  
+- **Sales by Category and Size**  
+- **Best & Worst Selling Pizzas**
+
+## Tools Used
+- **MySQL** – Data storage and analysis
+- **Excel** – Dashboard visualization
+- **CSV** – Data import/export
+
+## Purpose
+To identify sales trends, top-performing products, and peak ordering times, enabling data-driven business decisions.
